@@ -3,6 +3,11 @@ print("some changes")
 
 
 def sum(a,b):
+    return a+b
+
+print("created sum method which is correct")
+
+def sub(a,b):
     return a
 
-print("created sum method which is wrong")
+print("created sub method which is wrong")
